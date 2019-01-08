@@ -6,6 +6,10 @@ python plot codes collected by myself
 
 ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
 
+![test image size](res/single_bar.png){:class="img-responsive"}
+![test image size](res/single_bar.png){:height="50%" width="50%"}
+![test image size](res/single_bar.png){:height="700px" width="400px"}
+
 [![single](https://github.com/gzrjzcx/python_plot/blob/master/res/double_bar.pngs=200)][ss1]
 
 [ss1]:https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py

@@ -5,7 +5,7 @@ python plot codes collected by myself
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-  	<td>[![single_bar](https://github.com/gzrjzcx/python_plot/blob/master/res/single_bar.png)](https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py)</td>
+  	<td>[![single](https://github.com/gzrjzcx/python_plot/blob/master/res/single_bar.png "single")][https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py]</td>
     <td><img width="160px" src="res/single_bar.png"></td>
     <td><img width="160px" src="res/double_bar.png"></td>
     <td><img width="160px" src="res/double_baseline_bar.png"></td>

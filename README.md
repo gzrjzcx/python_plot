@@ -1,5 +1,5 @@
 # python_plot
-python plot codes collected by myself
+python plot codes collected by myself.
 
 ### Bar Chart
 

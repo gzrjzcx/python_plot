@@ -5,7 +5,7 @@ python plot codes collected by myself
 
 [![single](http://i.imgur.com/uqmd4li.jpg)][ss1]
 
-[ss1]:www.google.com
+[ss1]:https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py
 
 <table style="width:100%; table-layout:fixed;">
   <tr>

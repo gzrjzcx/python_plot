@@ -3,8 +3,6 @@ python plot codes collected by myself
 
 ### Bar chart
 
-[single_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py)
-
 <table style="width:100%; table-layout:fixed;" align="center">
   <tr>
     <td><img width="300px" src="res/single_bar.png"></td>
@@ -12,7 +10,7 @@ python plot codes collected by myself
     <td><img width="300px" src="res/triple_bar.png"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py">single bar</a></td>
+    <td align="center"><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py">single bar</a></td>
     <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/double_bar.py">double bar</a></td>
     <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/triple_bar.py">triple bar</a></td>
   </tr>

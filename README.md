@@ -44,7 +44,7 @@ python plot codes collected by myself. Updating...
   <tr>
     <td>
         <a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/line/simple_2line.py">
-          <img width="300px" src="res/bar/simple_2line.png">
+          <img width="300px" src="res/line/simple_2line.png">
         </a>
   </td>
   </tr>

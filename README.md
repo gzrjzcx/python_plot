@@ -40,7 +40,7 @@ python plot codes collected by myself
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td><img width="300px" src="res/complex_1.png"></td>
+    <td><img width="300px" src="res/other_1.png"></td>
     <td><img width="300px" src="res/baseline.png"></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ python plot codes collected by myself
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td><img width="300px" src="res/Pie.png"></td>
+    <td><img width="300px" src="res/pie.png"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/gzrjzcx/python_plot/blob/master/pie/pie_1.py">Pie 1</a></td>

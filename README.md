@@ -2,6 +2,9 @@
 python plot codes collected by myself
 
 ### Bar chart
+![](https://avatars3.githubusercontent.com/u/31112269?v=4&)
+
+![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
 
 [![single](https://github.com/gzrjzcx/python_plot/blob/master/res/double_bar.pngs=200)][ss1]
 

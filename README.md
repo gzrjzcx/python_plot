@@ -3,9 +3,9 @@ python plot codes collected by myself
 
 ### Bar chart
 
-[![single](http://imgur.com/uqmd4li)][ss1]
+[![single](http://i.imgur.com/uqmd4li.jpg)][ss1]
 
-[ss1]:http://imgur.com/uqmd4li
+[ss1]:www.google.com
 
 <table style="width:100%; table-layout:fixed;">
   <tr>

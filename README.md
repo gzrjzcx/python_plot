@@ -16,11 +16,9 @@ python plot codes collected by myself
   </tr>
   <tr>
     <td><img width="300px" src="res/double_baseline_bar.png"></td>
-    <td></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/double_baseline_bar.py">double baseline bar</a></td>
-    <td></td>
   </tr>
 </table>
 

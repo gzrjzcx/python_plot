@@ -3,6 +3,10 @@ python plot codes collected by myself. Updating...
 
 ### Bar Chart
 
+<a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/bar/single_bar.py">
+  <img src="https://github.com/gzrjzcx/python_plot/blob/master/res/bar/single_bar.png">
+</a>
+
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td><img width="300px" src="res/bar/single_bar.png"></td>

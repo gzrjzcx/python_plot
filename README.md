@@ -2,11 +2,7 @@
 python plot codes collected by myself. Updating...
 
 ### Bar Chart
-
-<a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/bar/single_bar.py">
-  <img src="https://github.com/gzrjzcx/python_plot/blob/master/res/bar/single_bar.png">
-</a>
-
+[ss1]: http://imgur.com/uqmd4li
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td>
@@ -14,7 +10,7 @@ python plot codes collected by myself. Updating...
           <img width="300px" src="https://github.com/gzrjzcx/python_plot/blob/master/res/bar/single_bar.png">
         </a>
     </td>
-    <td><img width="300px" src="res/bar/double_bar.png"></td>
+    <td><img width="300px" src=[ss1]></td>
     <td><img width="300px" src="res/bar/triple_bar.png"></td>
   </tr>
   <tr>

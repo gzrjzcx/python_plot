@@ -4,6 +4,7 @@ python plot codes collected by myself
 ### Bar chart
 
 [![single](http://imgur.com/uqmd4li)][ss1]
+
 [ss1]:http://imgur.com/uqmd4li
 
 <table style="width:100%; table-layout:fixed;">

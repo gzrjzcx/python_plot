@@ -12,9 +12,9 @@ python plot codes collected by myself
     <td><img width="200px" src="res/triple_bar.png"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py">single</a></td>
-    <td>[double_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/double_bar.py)</td>
-    <td>[triple_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/triple_bar.py)</td>
+    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py">single bar</a></td>
+    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/double_bar.py">double bar</a></td>
+    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/triple_bar.py">triple bar</a></td>
   </tr>
   <tr>
     <td><img width="200px" src="res/double_baseline_bar.png"></td>
@@ -22,9 +22,8 @@ python plot codes collected by myself
     <td></td>
   </tr>
   <tr>
-    <td>[double_baseline_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/double_baseline_bar.py)</td>
-    <td>[baseline](https://github.com/gzrjzcx/python_plot/blob/master/bar/baseline.py)</td>
-    <td>test</td>
+    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/double_baseline_bar.py">double baseline bar</a></td>
+    <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/baseline.py">baseline</a></td>
     <td></td>
   </tr>
 </table>

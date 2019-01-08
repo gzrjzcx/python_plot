@@ -29,7 +29,7 @@ python plot codes collected by myself. Updating...
     <td><img width="300px" src="res/line/simple_2line.png"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/line/simple_2line.py">simple line</a></td>
+    <td align="center"><a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/line/simple_2line.py">simple 2 line</a></td>
 
   </tr>
 </table>

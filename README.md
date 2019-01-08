@@ -3,7 +3,7 @@ python plot codes collected by myself
 
 ### Bar chart
 
-[![single](http://i.imgur.com/uqmd4li.jpg)][ss1]
+[![single](https://github.com/gzrjzcx/python_plot/blob/master/res/double_bar.png)][ss1]
 
 [ss1]:https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py
 
@@ -22,10 +22,12 @@ python plot codes collected by myself
   </tr>
   <tr>
     <td><img width="160px" src="res/baseline.png"></td>
+    <td>[![single](http://i.imgur.com/uqmd4li.jpg)][ss1]</td>
     <td></td>
   </tr>
   <tr>
     <td>baseline</td>
+    <td>test</td>
     <td></td>
   </tr>
 </table>

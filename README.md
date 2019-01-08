@@ -5,11 +5,11 @@ python plot codes collected by myself
 
 [single_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py)
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed;" align="center">
   <tr>
-    <td><img width="200px" src="res/single_bar.png"></td>
-    <td><img width="200px" src="res/double_bar.png"></td>
-    <td><img width="200px" src="res/triple_bar.png"></td>
+    <td><img width="300px" src="res/single_bar.png"></td>
+    <td><img width="300px" src="res/double_bar.png"></td>
+    <td><img width="300px" src="res/triple_bar.png"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py">single bar</a></td>
@@ -17,8 +17,8 @@ python plot codes collected by myself
     <td><a href="https://github.com/gzrjzcx/python_plot/blob/master/bar/triple_bar.py">triple bar</a></td>
   </tr>
   <tr>
-    <td><img width="200px" src="res/double_baseline_bar.png"></td>
-    <td><img width="200px" src="res/baseline.png"></td>
+    <td><img width="300px" src="res/double_baseline_bar.png"></td>
+    <td><img width="300px" src="res/baseline.png"></td>
     <td></td>
   </tr>
   <tr>

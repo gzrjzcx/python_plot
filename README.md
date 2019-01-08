@@ -2,16 +2,24 @@
 python plot codes collected by myself. Updating...
 
 ### Bar Chart
-[ss1]: http://imgur.com/uqmd4li
+
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td>
         <a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/bar/single_bar.py">
-          <img width="300px" src="https://github.com/gzrjzcx/python_plot/blob/master/res/bar/single_bar.png">
+          <img width="300px" src="res/bar/single_bar.png">
         </a>
     </td>
-    <td><img width="300px" src=[ss1]></td>
-    <td><img width="300px" src="res/bar/triple_bar.png"></td>
+    <td>
+        <a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/bar/double_bar.py">
+          <img width="300px" src="res/bar/double_bar.png">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/bar/triple_bar.py">
+          <img width="300px" src="res/bar/triple_bar.png">
+        </a>
+    </td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/gzrjzcx/python_plot/blob/master/sourcecode/bar/single_bar.py">single bar</a></td>

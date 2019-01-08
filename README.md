@@ -3,7 +3,7 @@ python plot codes collected by myself
 
 ### Bar chart
 
-[![single](https://github.com/gzrjzcx/python_plot/blob/master/res/double_bar.png&s=200)][ss1]
+[![single](https://github.com/gzrjzcx/python_plot/blob/master/res/double_bar.pngs=200)][ss1]
 
 [ss1]:https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py
 

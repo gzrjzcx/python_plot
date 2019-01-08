@@ -12,7 +12,7 @@ python plot codes collected by myself
     <td><img width="200px" src="res/triple_bar.png"></td>
   </tr>
   <tr>
-    <td><link rel="stylesheet" type="text" href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py">></td>
+    <td><link rel="single_bar" type="text" href="https://github.com/gzrjzcx/python_plot/blob/master/bar/single_bar.py"></td>
     <td>[double_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/double_bar.py)</td>
     <td>[triple_bar](https://github.com/gzrjzcx/python_plot/blob/master/bar/triple_bar.py)</td>
   </tr>
